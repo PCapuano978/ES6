@@ -7,7 +7,7 @@
 // greet();
 
 
-let args = [1,2,3];
+let args1 = [1,2,3];
 let args2 = [4,5,6];
 
 function test(){

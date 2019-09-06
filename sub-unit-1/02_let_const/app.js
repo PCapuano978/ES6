@@ -31,10 +31,10 @@
 //  testVar();
 
 
-const colors = [];
+const colors = [0];
 
 colors.push('red');
-colors,push('blue');
+colors.push('blue');
 
 colors = 'Green';
 
